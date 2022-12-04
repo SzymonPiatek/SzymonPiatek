@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SzymonPiatek
+- 👀 I’m interested in football and music
+- 🌱 I’m currently learning python
